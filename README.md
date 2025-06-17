@@ -1,57 +1,59 @@
+![Ahmed Khairy Banner](https://raw.githubusercontent.com/ahmedkhairy97/ahmedkhairy97/main/assets/ahmed-khairy-banner.jpg)
+
+<img alt="Hand Wave" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Ahmed</h2>
+
+### 👨🏻‍💻 &nbsp;About Me
+
+💡 &nbsp;I'm passionate about biotechnology and exploring the world of data analysis and programming.\
+🎓 &nbsp;I'm a Biotechnology student from Egypt – learning data analysis with Python, SQL, and Excel.\
+🌱 &nbsp;Currently focusing on developing my data skills and understanding how to use them in biology-related fields.\
+📘 &nbsp;I enjoy breaking down complex problems and creating meaningful insights from data.\
+💬 &nbsp;Feel free to connect if you want to discuss science, data, or student opportunities.\
+✉️ &nbsp;You can reach me at ahmedkhairy@email.com (replace with real email).\
+📄 &nbsp;Here's my [CV](https://your-cv-link.com) if you'd like to learn more about my background.
+
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
+---
+
+### 🛠 &nbsp;Currently Learning
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)&nbsp;
+![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=numpy)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql)&nbsp;
+![Excel](https://img.shields.io/badge/-Excel-05122A?style=flat&logo=microsoft-excel)&nbsp;
+![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter)&nbsp;
+![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
+
+---
+
+### ⚙️ &nbsp;GitHub Stats
+
 <p align="center">
-  <img width="80%" alt="Welcome to Ahmed's GitHub" src="./assets/gh-readme-header.png" />
+<a href="https://github.com/ahmedkhairy97">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ahmedkhairy97&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahmedkhairy97&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </p>
 
-<br />
-
-أنا أحمد خيري 🇪🇬  
-طالب بيولوجيا مهتم بمجال تحليل البيانات (Data Analysis) وبتعلمه حاليًا بشكل ذاتي. بحب أستخدم البرمجة والبيانات علشان أكتشف معلومات مفيدة وأحل مشاكل حقيقية.
-
 ---
 
-### 🧠 عني
+### 📌 Projects I'm Working On
 
-- 🎓 طالب في كلية العلوم - قسم التكنولوجيا الحيوية (Biotechnology)  
-- 📊 بتعلم تحليل البيانات باستخدام Python، Pandas، Numpy و SQL  
-- 💡 بحب أدمج بين البيوتكنولوجي والبرمجة لحل مشاكل علمية بطريقة ذكية  
-- 📚 حاليًا بشتغل على مشاريع تعليمية بسيطة على GitHub، وبطور مهاراتي يوم ورا يوم  
-- 📫 تقدر تتواصل معايا من خلال [LinkedIn](https://www.linkedin.com/in/ahmedkhairy97) أو تشوف مشاريعي هنا على GitHub
-
----
-
-### 🔧 المهارات اللي بشتغل عليها حاليًا
-
-<code><img height="20" alt="python" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
-<code><img height="20" alt="pandas" src="https://raw.githubusercontent.com/github/explore/main/topics/pandas/pandas.png"></code>
-<code><img height="20" alt="numpy" src="https://raw.githubusercontent.com/github/explore/main/topics/numpy/numpy.png"></code>
-<code><img height="20" alt="sql" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png"></code>
-<code><img height="20" alt="excel" src="https://raw.githubusercontent.com/github/explore/main/topics/excel/excel.png"></code>
-
----
-
-### 📈 إحصائيات GitHub
-
-| <a href="https://github.com/ahmedkhairy97"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedkhairy97&show_icons=true&theme=vue-dark&hide_border=true" alt="Ahmed's GitHub stats" /></a> | <a href="https://github.com/ahmedkhairy97"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedkhairy97&layout=compact&theme=vue-dark&hide_border=true" /></a> |
-| ------------- | ------------- |
-
----
-
-### 📌 بعض مشاريعي
-
-<!-- استبدل الروابط دي بروابط الريبو الحقيقية بتاعتك -->
 <a href="https://github.com/ahmedkhairy97/data-analysis-project1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedkhairy97&repo=data-analysis-project1&theme=vue-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedkhairy97&repo=data-analysis-project1&theme=algolia" />
 </a>
-<a href="https://github.com/ahmedkhairy97/biotech-python-tools">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedkhairy97&repo=biotech-python-tools&theme=vue-dark" />
+<a href="https://github.com/ahmedkhairy97/biotech-sql-practice">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedkhairy97&repo=biotech-sql-practice&theme=algolia" />
 </a>
 
 ---
 
-### 💬 لو عندك أي سؤال أو حابب تتواصل
+### 🤝🏻 &nbsp;Connect with Me
 
-- 🐦 [تويتر](https://twitter.com/ahmedkhairy97)  
-- 💼 [لينكدإن](https://www.linkedin.com/in/ahmedkhairy97)  
-- 📧 الإيميل: ahmedkhairy@example.com (استبدله بالإيميل الحقيقي لو حبيت)
-
----
+<p align="center">
+<a href="https://linkedin.com/in/ahmedkhairy97"><img src="https://img.shields.io/badge/-Ahmed%20Khairy-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:ahmedkhairy@email.com"><img src="https://img.shields.io/badge/-ahmedkhairy@email.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/ahmedkhairy"><img src="https://img.shields.io/badge/-@ahmedkhairy-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+</p>
