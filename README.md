@@ -1,4 +1,4 @@
-![Ahmed Khairy Banner](https://raw.githubusercontent.com/ahmedkhairy97/ahmedkhairy97/main/assets/ahmed-khairy-banner.jpg)
+![Ahmed Khairy Banner](https://cycode.com/wp-content/uploads/2020/11/Cycode-GitHub-Permissions-for-Maximum-Security.png)
 
 <img alt="Hand Wave" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Ahmed</h2>
 
@@ -9,8 +9,8 @@
 🌱 &nbsp;Currently focusing on developing my data skills and understanding how to use them in biology-related fields.\
 📘 &nbsp;I enjoy breaking down complex problems and creating meaningful insights from data.\
 💬 &nbsp;Feel free to connect if you want to discuss science, data, or student opportunities.\
-✉️ &nbsp;You can reach me at ahmedkhairy@email.com (replace with real email).\
-📄 &nbsp;Here's my [CV](https://your-cv-link.com) if you'd like to learn more about my background.
+✉️ &nbsp;You can reach me at ahmedkhairy.abdelmobdy@email.com\
+📄 &nbsp;Here's my [CV](https://your-cv-link.com) if you want to learn more about my background.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
