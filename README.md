@@ -1,4 +1,7 @@
-![Ahmed Khairy Banner](https://cycode.com/wp-content/uploads/2020/11/Cycode-GitHub-Permissions-for-Maximum-Security.png)
+<p align="center">
+  <img src="https://cycode.com/wp-content/uploads/2020/11/Cycode-GitHub-Permissions-for-Maximum-Security.png" alt="Ahmed Khairy Banner" width="60%" />
+</p>
+
 
 <img alt="Hand Wave" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Ahmed</h2>
 
