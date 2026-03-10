@@ -34,24 +34,14 @@
 ### ⚙️ &nbsp;GitHub Stats
 
 <p align="center">
-<a href="https://github.com/ahmedkhairy97">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ahmedkhairy97&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahmedkhairy97&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/AhmedKhairy22">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AhmedKhairy22&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AhmedKhairy22&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
 ---
 
-### 📌 Projects I'm Working On
-
-<a href="https://github.com/ahmedkhairy97/data-analysis-project1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedkhairy97&repo=data-analysis-project1&theme=algolia" />
-</a>
-<a href="https://github.com/ahmedkhairy97/biotech-sql-practice">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedkhairy97&repo=biotech-sql-practice&theme=algolia" />
-</a>
-
----
 
 ### 🤝🏻 &nbsp;Connect with Me
 
