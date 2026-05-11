@@ -1,66 +1,34 @@
+# my developing philosophy
 
-<div align="center">
+if it works,  
+don't touch it.
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="320"/>
+if it doesn't work,  
+restart vscode first.
 
-# hey there 👋
+errors are temporary.  
+bad architecture is forever.
 
-```bash
-if it works:
-    don't touch it
-else:
-    restart vscode
-````
+one more refactor won't hurt.  
+(it will)
 
-</div>
+the bug is never where you think it is.
 
----
+naming things is hard.  
+especially after 3am.
 
-<div align="center">
+there is no such thing as a small change.
 
-### current status
+fixing one line of code  
+can emotionally affect five others.
 
-</div>
+the code that worked yesterday  
+will not explain itself today.
 
-```txt
-✓ pretending i understand regex
-✓ renaming variables until the code works
-✓ one console.log() away from greatness
-```
+and remember:
 
-<br>
-
-<div align="center">
-
-### project status
-
-</div>
-
-```txt
-██████████░░░░░░░░ 50%
-
-the other 50% is debugging
-```
-
----
-
-<div align="center">
-
-### average commit message
-
-</div>
-
-```bash
-git commit -m "final final real final fix"
-```
-
----
-
-<div align="center">
-
-### ⚡ github stats
-
-</div>
+works on my machine  
+is a valid testing methodology
 
 <p align="center">
   <a href="https://github.com/AhmedKhairy22">
