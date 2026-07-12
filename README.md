@@ -1,38 +1,16 @@
-# my developing philosophy
+# My developing philosophy
 
-if it works,  
-don't touch it.
+* **Rule #1:** If it works, don't touch it. If it breaks, restart the editor and pray
+* **The Reality:** Errors are temporary. Bad architecture is forever
+* **The Trap:** "One more refactor won't hurt." *(Narrator: It did.)*
+* **The Butterfly Effect:** Fixing 1 line of code emotionally damages 5 others
+* **QA Status:** Works on my machine 🤝
 
-if it doesn't work,  
-restart vscode first.
-
-errors are temporary.  
-bad architecture is forever.
-
-one more refactor won't hurt.  
-(it will)
-
-the bug is never where you think it is.
-
-naming things is hard.  
-especially after 3am.
-
-there is no such thing as a small change.
-
-fixing one line of code  
-can emotionally affect five others.
-
-the code that worked yesterday  
-will not explain itself today.
-
-and remember:
-
-works on my machine  
-is a valid testing methodology
+-----
 
 <p align="center">
   <a href="https://github.com/AhmedKhairy22">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AhmedKhairy22&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AhmedKhairy22&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AhmedKhairy22&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AhmedKhairy22&layout=compact&langs_count=8&theme=radical"/>
   </a>
 </p>
